@@ -1,4 +1,4 @@
 
-# A collection of examples and experiments, including: #
+# A collection of Erland examples and experiments
 
-* pricing_service.erl is a simple pricing service that can use hot swapping to get updates - no need to bring down the process nor the VM.
+* Please see the [wiki](https://github.com/nickmcdowall/Erlang-Examples/wiki) for details.
